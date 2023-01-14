@@ -1,3 +1,5 @@
 Hola esta es una prueba para el curso de git
 
 Realizando el curso de git.
+Hoy estamos probando las funcionalidades de git.
+
