@@ -8,8 +8,23 @@ body{
 }
 #container{
     width: 700px;
-    padding: 1em;
+    padding: 0;
     text-align: left;
     border: 1px solid gray;
     margin: 0 auto;
+}
+
+#cabecera{
+    border: 1px solid gray;
+    margin: 0;
+    padding: 0 1em;
+    color: white;
+    background-color: aqua;
+   
+    
+}
+
+#post{
+    padding: 1em;
+    
 }
