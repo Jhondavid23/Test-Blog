@@ -21,11 +21,15 @@ body{
     padding: 0 1em;
     color: white;
     background-color: aqua;
-   
+    
     
 }
 
 #post{
     padding: 1em;
     
+}
+
+#logo{
+    width: 30px;
 }
