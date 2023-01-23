@@ -28,6 +28,12 @@ body{
 #post{
     padding: 1em;
     
+
+}
+#footer{
+    background-color: aqua;
+    text-align: center;
+
 }
 
 #logo{
